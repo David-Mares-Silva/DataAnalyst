@@ -1,24 +1,33 @@
-# Portfolio Projects
-## Following are my projects in SQL, Python, Tableau & Excel: <br />
-#### *Review profesional profile for these projects
-#### *You can also take a look at my Linkedin : [David Mares](https://www.linkedin.com/in/davidmaressilva/)* <br />
+# 📂 Portfolio Projects
 
+### 🚀 Proyectos desarrollados con SQL, Python, Tableau y Excel
 
+#### 🔍 Revisa mi perfil profesional para más información sobre estos proyectos  
+🔗 [💼 LinkedIn - David Mares](https://www.linkedin.com/in/davidmaressilva/)
 
-- [x] **Tableau** - 
+---
 
-*Para ver estos tableros en Tableau Public, seguir el vínculo
-- Plan Maestro de Infraestructura Física en Salud
+## 📊 Tableau Dashboards
 
-*Es el instrumento rector para la planeación, desarrollo y reordenamiento de la infraestructura y el equipamiento médico de la Secretaría de Salud y de los servicios estatales de salud, con el fin de racionalizar y priorizar los recursos para la inversión pública y garantizar la operación sustentable* **[Dashboard]  https://public.tableau.com/shared/ZHGQ9DT6P?:display_count=n&:origin=viz_share_link ** <br>
+### 🏥 Plan Maestro de Infraestructura Física en Salud
 
-![Plan Maestro de Infraestructura Física en Salud](visuals\Tableau - Plan Maestro de Infraestructura - Dashboard.jpg)
+> Instrumento rector para la planeación, desarrollo y reordenamiento de la infraestructura y equipamiento médico de la Secretaría de Salud y de los servicios estatales de salud. Su objetivo es racionalizar y priorizar la inversión pública y garantizar la operación sustentable.
 
-- Diabetes Mellitus con complicaciones perifericas SAEH214 
-*Visualización de las complicaciones circulatorias periféricas asociadas a Diabetes Mellitus en México, como herramienta de planeación para la venta de insumos médicos asociados al píe diabético.*
-**[Dashboard]  https://public.tableau.com/views/DiabetesMellitusconcomplicacionesperifericasSAEH214/ENTIDAD?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ** <br>
+🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/shared/ZHGQ9DT6P?:display_count=n&:origin=viz_share_link)
 
-![Plan Maestro de Infraestructura Física en Salud](visuals\Tableau - Diabetes Mellitus en México - Dashboard.jpg)
+![Plan Maestro](visuals/Tableau%20-%20Plan%20Maestro%20de%20Infraestructura%20-%20Dashboard.jpg)
+
+---
+
+### 🩸 Diabetes Mellitus con Complicaciones Periféricas (SAEH214)
+
+> Visualización de las complicaciones circulatorias periféricas asociadas a Diabetes Mellitus en México. Es una herramienta de planeación para la venta de insumos médicos asociados al pie diabético.
+
+🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/views/DiabetesMellitusconcomplicacionesperifericasSAEH214/ENTIDAD?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+![Diabetes Mellitus](visuals/Tableau%20-%20Diabetes%20Mellitus%20en%20México%20-%20Dashboard.jpg)
+
+---
 
 - [x] **PowerBI** - 
 - Padrón de Beneficiarios del Instituto Mexicano del Seguro Social
