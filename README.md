@@ -15,7 +15,6 @@
 
 🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/shared/ZHGQ9DT6P?:display_count=n&:origin=viz_share_link)
 
-<<<<<<< HEAD
 ![Plan Maestro](visuals/Tableau%20-%20Plan%20Maestro%20de%20Infraestructura%20-%20Dashboard.jpg)
 
 ---
@@ -29,9 +28,6 @@
 ![Diabetes Mellitus](visuals/Tableau%20-%20Diabetes%20Mellitus%20en%20México%20-%20Dashboard.jpg)
 
 ---
-=======
-![Plan Maestro de Infraestructura Física en Salud](visuals/Tableau - Diabetes Mellitus en México - Dashboard.jpg)
->>>>>>> 744f259e1fcdddfd88867a62a906540921a0ab1f
 
 - [x] **PowerBI** - 
 - Padrón de Beneficiarios del Instituto Mexicano del Seguro Social
@@ -42,4 +38,14 @@
 
 
 - [x] **Python** - 
-- Encuesta Nacional de Salud y Nutrición
+- Notebook con análisis de muertes por condiciones asociadas a Código Infarto
+
+
+---
+- Aplicación con el análisis de la in Código Infarto
+
+> Resultados preliminares para el analisis estatal de la información del sistema nacional de información en salud, el Subsistema de Información de Equipamiento, Recursos Humanos e Infraestructura para la Atención de la Salud (SINERHIAS) y la base nacional de la red cardiocerebral.
+
+- 🔗 [Ver Dashboard público en Aplicación de Dash](https://drmares.pythonanywhere.com/)
+
+![Visualización interactiva](visuals\Python_Dash_pythonanywhere_Codigo_Infarto.jpg)
