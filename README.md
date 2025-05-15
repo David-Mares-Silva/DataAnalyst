@@ -18,7 +18,7 @@
 *Visualización de las complicaciones circulatorias periféricas asociadas a Diabetes Mellitus en México, como herramienta de planeación para la venta de insumos médicos asociados al píe diabético.*
 **[Dashboard]  https://public.tableau.com/views/DiabetesMellitusconcomplicacionesperifericasSAEH214/ENTIDAD?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ** <br>
 
-![Plan Maestro de Infraestructura Física en Salud](visuals\Tableau - Diabetes Mellitus en México - Dashboard.jpg)
+![Plan Maestro de Infraestructura Física en Salud](visuals/Tableau - Diabetes Mellitus en México - Dashboard.jpg)
 
 - [x] **PowerBI** - 
 - Padrón de Beneficiarios del Instituto Mexicano del Seguro Social
