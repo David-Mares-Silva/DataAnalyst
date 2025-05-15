@@ -48,4 +48,4 @@
 
 - 🔗 [Ver Dashboard público en Aplicación de Dash](https://drmares.pythonanywhere.com/)
 
-![Visualización interactiva](visuals\Python_Dash_pythonanywhere_Codigo_Infarto.jpg)
+![Visualización interactiva](visuals/Python_Dash_pythonanywhere_Codigo_Infarto.jpg)
