@@ -15,6 +15,7 @@
 
 🔗 [Ver Dashboard en Tableau Public](https://public.tableau.com/shared/ZHGQ9DT6P?:display_count=n&:origin=viz_share_link)
 
+<<<<<<< HEAD
 ![Plan Maestro](visuals/Tableau%20-%20Plan%20Maestro%20de%20Infraestructura%20-%20Dashboard.jpg)
 
 ---
@@ -28,6 +29,9 @@
 ![Diabetes Mellitus](visuals/Tableau%20-%20Diabetes%20Mellitus%20en%20México%20-%20Dashboard.jpg)
 
 ---
+=======
+![Plan Maestro de Infraestructura Física en Salud](visuals/Tableau - Diabetes Mellitus en México - Dashboard.jpg)
+>>>>>>> 744f259e1fcdddfd88867a62a906540921a0ab1f
 
 - [x] **PowerBI** - 
 - Padrón de Beneficiarios del Instituto Mexicano del Seguro Social
